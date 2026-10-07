@@ -55,3 +55,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+   ModelNet40/
+   results/
+   __pycache__/
+   .idea/
+/ModelNet40/
